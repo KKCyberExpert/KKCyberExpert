@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KKCyberExpert
+- 👋 Hi, I’m @KK
 - 👀 I’m interested in ... Cyber Forensic Department
 - 🌱 I’m currently learning ... Msc in Cyber Security
 - 💞️ I’m looking to collaborate on ... Kolkata Police Cyber Crime
